@@ -1,6 +1,28 @@
 {
   "registros": [
     {
+      "id": 1780410134365,
+      "groupId": "G1780410134365",
+      "operario": "ANDRÉS",
+      "obra": "Lanzasur",
+      "herramienta": "CM6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780410134365,
+      "devuelta": 1780410139478
+    },
+    {
+      "id": 1780409965931,
+      "groupId": "G1780409965931",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "R1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780409965931,
+      "devuelta": null
+    },
+    {
       "id": 1780380902974,
       "groupId": "G1780380902974",
       "operario": "PYTER",
@@ -9,7 +31,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780380902974,
-      "devuelta": null
+      "devuelta": 1780408398176
     },
     {
       "id": 1780380321504,
@@ -20,7 +42,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780380321503,
-      "devuelta": null
+      "devuelta": 1780409417410
     },
     {
       "id": 1780380321503,
@@ -31,7 +53,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780380321503,
-      "devuelta": null
+      "devuelta": 1780409417410
     },
     {
       "id": 1780380132562,
@@ -42,7 +64,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780380132562,
-      "devuelta": null
+      "devuelta": 1780408141106
     },
     {
       "id": 1780380054448,
@@ -75,7 +97,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379965979,
-      "devuelta": null
+      "devuelta": 1780409684429
     },
     {
       "id": 1780379965979,
@@ -86,7 +108,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379965979,
-      "devuelta": null
+      "devuelta": 1780409682217
     },
     {
       "id": 1780379728645,
@@ -106,7 +128,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379311550,
-      "devuelta": null
+      "devuelta": 1780408130432
     },
     {
       "id": 1780379311551,
@@ -116,7 +138,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379311550,
-      "devuelta": null
+      "devuelta": 1780408124399
     },
     {
       "id": 1780379311550,
@@ -126,7 +148,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379311550,
-      "devuelta": null
+      "devuelta": 1780408089455
     },
     {
       "id": 1780379221867,
@@ -136,7 +158,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379221867,
-      "devuelta": null
+      "devuelta": 1780408327132
     },
     {
       "id": 1780379161600,
@@ -146,7 +168,7 @@
       "cantidad": 30,
       "obs": "",
       "salida": 1780379161599,
-      "devuelta": null
+      "devuelta": 1780408325929
     },
     {
       "id": 1780379161599,
@@ -156,7 +178,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780379161599,
-      "devuelta": null
+      "devuelta": 1780408322182
     },
     {
       "id": 1780324354335,
@@ -339,14 +361,18 @@
     "CN cinta",
     "Y",
     "Taladron",
-    "CM7"
+    "CM7",
+    "R1",
+    "CM6"
   ],
   "obras": [
     "OASIS",
     "Los Lirios",
     "Sensarena",
-    "2 viviendas"
+    "2 viviendas",
+    "Cofalanz",
+    "Lanzasur"
   ],
-  "exportado": "2026-06-02T11:03:54.370Z",
+  "exportado": "2026-06-02T14:35:47.564Z",
   "version": 3
 }
