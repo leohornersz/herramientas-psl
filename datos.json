@@ -1,6 +1,248 @@
 {
   "registros": [
     {
+      "id": 1780467178783,
+      "groupId": "G1780467178781",
+      "operario": "JOSHUA",
+      "obra": "Lanzasur",
+      "herramienta": "CN Bridas",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467178781,
+      "devuelta": null
+    },
+    {
+      "id": 1780467178782,
+      "groupId": "G1780467178781",
+      "operario": "JOSHUA",
+      "obra": "Lanzasur",
+      "herramienta": "PP2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467178781,
+      "devuelta": null
+    },
+    {
+      "id": 1780467178781,
+      "groupId": "G1780467178781",
+      "operario": "JOSHUA",
+      "obra": "Lanzasur",
+      "herramienta": "Cuadradillo",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467178781,
+      "devuelta": null
+    },
+    {
+      "id": 1780467097327,
+      "groupId": "G1780467097327",
+      "operario": "OMAR",
+      "obra": "Lanzasur",
+      "herramienta": "A2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467097327,
+      "devuelta": null
+    },
+    {
+      "id": 1780467053594,
+      "groupId": "G1780467053594",
+      "operario": "JOSHUA",
+      "obra": "Cofalanz",
+      "herramienta": "SP",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467053594,
+      "devuelta": null
+    },
+    {
+      "id": 1780467046549,
+      "groupId": "G1780467046548",
+      "operario": "JOSHUA",
+      "obra": "Cofalanz",
+      "herramienta": "CN blanco ventt",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467046548,
+      "devuelta": null
+    },
+    {
+      "id": 1780467046548,
+      "groupId": "G1780467046548",
+      "operario": "JOSHUA",
+      "obra": "Cofalanz",
+      "herramienta": "CM1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780467046548,
+      "devuelta": null
+    },
+    {
+      "id": 1780466784492,
+      "groupId": "G1780466784492",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "Decap",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466784492,
+      "devuelta": null
+    },
+    {
+      "id": 1780466734247,
+      "groupId": "G1780466734247",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "T5",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466734247,
+      "devuelta": null
+    },
+    {
+      "id": 1780466672551,
+      "groupId": "G1780466672551",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466672551,
+      "devuelta": null
+    },
+    {
+      "id": 1780466511665,
+      "groupId": "G1780466511665",
+      "operario": "ANDRÉS",
+      "obra": "Lanzasur",
+      "herramienta": "CM6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466511665,
+      "devuelta": null
+    },
+    {
+      "id": 1780466448940,
+      "groupId": "G1780466448939",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "N1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466448939,
+      "devuelta": null
+    },
+    {
+      "id": 1780466448939,
+      "groupId": "G1780466448939",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466448939,
+      "devuelta": null
+    },
+    {
+      "id": 1780466288162,
+      "groupId": "G1780466288162",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "E1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780466288162,
+      "devuelta": null
+    },
+    {
+      "id": 1780465979038,
+      "groupId": "G1780465979038",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "CN grapa 20",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465979038,
+      "devuelta": null
+    },
+    {
+      "id": 1780465887847,
+      "groupId": "G1780465887847",
+      "operario": "JONATHAN",
+      "obra": "Lanzasur",
+      "herramienta": "CN cinta",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465887847,
+      "devuelta": null
+    },
+    {
+      "id": 1780465879888,
+      "groupId": "G1780465879888",
+      "operario": "JONATHAN",
+      "obra": "Sensarena",
+      "herramienta": "CN Bridas",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465879888,
+      "devuelta": null
+    },
+    {
+      "id": 1780465865224,
+      "groupId": "G1780465865223",
+      "operario": "ALEXIS",
+      "obra": "Sensarena",
+      "herramienta": "EALU2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465865223,
+      "devuelta": null
+    },
+    {
+      "id": 1780465865223,
+      "groupId": "G1780465865223",
+      "operario": "ALEXIS",
+      "obra": "Sensarena",
+      "herramienta": "CAAC",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465865223,
+      "devuelta": null
+    },
+    {
+      "id": 1780465818758,
+      "groupId": "G1780465818758",
+      "operario": "GERMAN",
+      "obra": "Cofalanz",
+      "herramienta": "CN tuvo pvc",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465818758,
+      "devuelta": null
+    },
+    {
+      "id": 1780465805113,
+      "groupId": "G1780465805112",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "E6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465805112,
+      "devuelta": null
+    },
+    {
+      "id": 1780465805112,
+      "groupId": "G1780465805112",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780465805112,
+      "devuelta": null
+    },
+    {
       "id": 1780410134365,
       "groupId": "G1780410134365",
       "operario": "ANDRÉS",
@@ -363,7 +605,19 @@
     "Taladron",
     "CM7",
     "R1",
-    "CM6"
+    "CM6",
+    "CN tuvo pvc",
+    "PC8",
+    "CN grapa 20\"",
+    "T1",
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "Decap",
+    "CN blanco ventt",
+    "SP",
+    "Cuadradillo"
   ],
   "obras": [
     "OASIS",
@@ -373,6 +627,6 @@
     "Cofalanz",
     "Lanzasur"
   ],
-  "exportado": "2026-06-02T14:35:47.564Z",
+  "exportado": "2026-06-03T06:25:01.812Z",
   "version": 3
 }
