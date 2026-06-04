@@ -1,6 +1,215 @@
 {
   "registros": [
     {
+      "id": 1780553761571,
+      "groupId": "G1780553761571",
+      "operario": "MOISÉS",
+      "obra": "Sensarena",
+      "herramienta": "Taladron",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780553761571,
+      "devuelta": null
+    },
+    {
+      "id": 1780553680201,
+      "groupId": "G1780553680201",
+      "operario": "DAVID",
+      "obra": "Lanzasur",
+      "herramienta": "CN cable 2x5",
+      "cantidad": 5,
+      "obs": "",
+      "salida": 1780553680201,
+      "devuelta": null
+    },
+    {
+      "id": 1780553648625,
+      "groupId": "G1780553648623",
+      "operario": "JONATHAN",
+      "obra": "Los Lirios",
+      "herramienta": "CN cable 2x5",
+      "cantidad": 2,
+      "obs": "Tierra",
+      "salida": 1780553648623,
+      "devuelta": null
+    },
+    {
+      "id": 1780553648624,
+      "groupId": "G1780553648623",
+      "operario": "JONATHAN",
+      "obra": "Los Lirios",
+      "herramienta": "A3",
+      "cantidad": 1,
+      "obs": "Tierra",
+      "salida": 1780553648623,
+      "devuelta": null
+    },
+    {
+      "id": 1780553648623,
+      "groupId": "G1780553648623",
+      "operario": "JONATHAN",
+      "obra": "Los Lirios",
+      "herramienta": "PP5",
+      "cantidad": 1,
+      "obs": "Tierra",
+      "salida": 1780553648623,
+      "devuelta": null
+    },
+    {
+      "id": 1780553480181,
+      "groupId": "G1780553480181",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "C1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780553480181,
+      "devuelta": null
+    },
+    {
+      "id": 1780553471585,
+      "groupId": "G1780553471585",
+      "operario": "JOSHUA",
+      "obra": "Cofalanz",
+      "herramienta": "T Martillo",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780553471585,
+      "devuelta": null
+    },
+    {
+      "id": 1780553342035,
+      "groupId": "G1780553342035",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "CN caja 10x15",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780553342035,
+      "devuelta": 1780553344992
+    },
+    {
+      "id": 1780552953436,
+      "groupId": "G1780552953436",
+      "operario": "JUAN FRAN",
+      "obra": "Sensarena",
+      "herramienta": "T1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552953436,
+      "devuelta": null
+    },
+    {
+      "id": 1780552872364,
+      "groupId": "G1780552872364",
+      "operario": "PYTER",
+      "obra": "Sensarena",
+      "herramienta": "Pasamuro",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552872364,
+      "devuelta": null
+    },
+    {
+      "id": 1780552735104,
+      "groupId": "G1780552735104",
+      "operario": "ALEXIS",
+      "obra": "Sensarena",
+      "herramienta": "CAAC",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552735104,
+      "devuelta": null
+    },
+    {
+      "id": 1780552722931,
+      "groupId": "G1780552722931",
+      "operario": "ANDRÉS",
+      "obra": "Lanzasur",
+      "herramienta": "CM6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552722931,
+      "devuelta": null
+    },
+    {
+      "id": 1780552537456,
+      "groupId": "G1780552537456",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "E12",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552537456,
+      "devuelta": null
+    },
+    {
+      "id": 1780552523201,
+      "groupId": "G1780552523197",
+      "operario": "PYTER",
+      "obra": "Los Lirios",
+      "herramienta": "JC5",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552523197,
+      "devuelta": null
+    },
+    {
+      "id": 1780552523200,
+      "groupId": "G1780552523197",
+      "operario": "PYTER",
+      "obra": "Los Lirios",
+      "herramienta": "N1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552523197,
+      "devuelta": null
+    },
+    {
+      "id": 1780552523199,
+      "groupId": "G1780552523197",
+      "operario": "PYTER",
+      "obra": "Los Lirios",
+      "herramienta": "E1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552523197,
+      "devuelta": null
+    },
+    {
+      "id": 1780552523198,
+      "groupId": "G1780552523197",
+      "operario": "PYTER",
+      "obra": "Los Lirios",
+      "herramienta": "P8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552523197,
+      "devuelta": null
+    },
+    {
+      "id": 1780552523197,
+      "groupId": "G1780552523197",
+      "operario": "PYTER",
+      "obra": "Los Lirios",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552523197,
+      "devuelta": null
+    },
+    {
+      "id": 1780552391659,
+      "groupId": "G1780552391659",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "E6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780552391659,
+      "devuelta": null
+    },
+    {
       "id": 1780467178783,
       "groupId": "G1780467178781",
       "operario": "JOSHUA",
@@ -42,7 +251,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780467097327,
-      "devuelta": null
+      "devuelta": 1780495629900
     },
     {
       "id": 1780467053594,
@@ -86,7 +295,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466784492,
-      "devuelta": null
+      "devuelta": 1780495606435
     },
     {
       "id": 1780466734247,
@@ -97,7 +306,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466734247,
-      "devuelta": null
+      "devuelta": 1780551851365
     },
     {
       "id": 1780466672551,
@@ -108,7 +317,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466672551,
-      "devuelta": null
+      "devuelta": 1780495632821
     },
     {
       "id": 1780466511665,
@@ -119,7 +328,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466511665,
-      "devuelta": null
+      "devuelta": 1780494938367
     },
     {
       "id": 1780466448940,
@@ -130,7 +339,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466448939,
-      "devuelta": null
+      "devuelta": 1780495604540
     },
     {
       "id": 1780466448939,
@@ -141,7 +350,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466448939,
-      "devuelta": null
+      "devuelta": 1780495538942
     },
     {
       "id": 1780466288162,
@@ -152,7 +361,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780466288162,
-      "devuelta": null
+      "devuelta": 1780495493985
     },
     {
       "id": 1780465979038,
@@ -163,7 +372,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465979038,
-      "devuelta": null
+      "devuelta": 1780495919282
     },
     {
       "id": 1780465887847,
@@ -174,7 +383,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465887847,
-      "devuelta": null
+      "devuelta": 1780495502258
     },
     {
       "id": 1780465879888,
@@ -185,7 +394,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465879888,
-      "devuelta": null
+      "devuelta": 1780495501741
     },
     {
       "id": 1780465865224,
@@ -196,7 +405,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465865223,
-      "devuelta": null
+      "devuelta": 1780495135764
     },
     {
       "id": 1780465865223,
@@ -207,7 +416,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465865223,
-      "devuelta": null
+      "devuelta": 1780494946385
     },
     {
       "id": 1780465818758,
@@ -218,7 +427,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465818758,
-      "devuelta": null
+      "devuelta": 1780495920345
     },
     {
       "id": 1780465805113,
@@ -229,7 +438,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465805112,
-      "devuelta": null
+      "devuelta": 1780551878404
     },
     {
       "id": 1780465805112,
@@ -240,7 +449,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780465805112,
-      "devuelta": null
+      "devuelta": 1780495497095
     },
     {
       "id": 1780410134365,
@@ -262,7 +471,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780409965931,
-      "devuelta": null
+      "devuelta": 1780495140081
     },
     {
       "id": 1780380902974,
@@ -617,7 +826,12 @@
     "Decap",
     "CN blanco ventt",
     "SP",
-    "Cuadradillo"
+    "Cuadradillo",
+    "P8",
+    "Pasamuro",
+    "CN caja 10x15",
+    "CN CAJA PLADUR 1M",
+    "T Martillo"
   ],
   "obras": [
     "OASIS",
@@ -627,6 +841,6 @@
     "Cofalanz",
     "Lanzasur"
   ],
-  "exportado": "2026-06-03T06:25:01.812Z",
+  "exportado": "2026-06-04T13:23:37.281Z",
   "version": 3
 }
