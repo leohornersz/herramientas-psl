@@ -205,8 +205,12 @@ select:focus,input:focus{border-color:#1a1a1a}
     <div class="stat"><div class="stat-num" id="stat-hoy">0</div><div class="stat-label">Salidas hoy</div></div>
     <div class="stat"><div class="stat-num" id="stat-devhoy">0</div><div class="stat-label">Devueltas hoy</div></div>
   </div>
-  <div style="margin-bottom:12px">
-    <select id="fil-op" onchange="renderActivos()"><option value="">Todos los operarios</option></select>
+  <div style="display:flex;gap:8px;margin-bottom:12px;align-items:center">
+    <select id="fil-op" onchange="renderActivos()" style="flex:1"><option value="">Todos los operarios</option></select>
+    <div class="view-toggle">
+      <button id="va-card" class="active" onclick="setActivosMode('card')">&#127183;</button>
+      <button id="va-list" onclick="setActivosMode('list')">&#9776;</button>
+    </div>
   </div>
   <div id="lista-activos"></div>
 </div>
@@ -537,6 +541,15 @@ function devolverGrupo(gid){
   save();renderActivos();
 }
 
+var activosMode='card';
+
+function setActivosMode(m){
+  activosMode=m;
+  document.getElementById('va-card').classList.toggle('active',m==='card');
+  document.getElementById('va-list').classList.toggle('active',m==='list');
+  renderActivos();
+}
+
 function renderActivos(){
   var fop=document.getElementById('fil-op').value;
   var hoy=new Date();hoy.setHours(0,0,0,0);
@@ -550,6 +563,18 @@ function renderActivos(){
   document.getElementById('stat-devhoy').textContent=devHoy;
   var el=document.getElementById('lista-activos');
   if(!activos.length){el.innerHTML='<div class="empty"><div class="empty-icon">&#9989;</div>Sin herramientas fuera</div>';return;}
+
+  if(activosMode==='list'){
+    var html='<div class="list-scroll"><table class="list-table"><thead><tr><th>Herramienta</th><th>Ud</th><th>Operario</th><th>Obra</th><th>Salida</th><th>Tiempo</th><th></th></tr></thead><tbody>';
+    activos.forEach(function(r){
+      var dur=fmtDur(Date.now()-r.salida);
+      html+='<tr><td class="td-tool">'+r.herramienta+'</td><td>'+r.cantidad+'</td><td class="td-op">'+r.operario+'</td><td class="td-op">'+(r.obra||'-')+'</td><td class="td-date">'+fmt(r.salida)+'</td><td class="td-dur"><span class="hist-dur">'+dur+'</span></td><td><button class="btn-sm btn-devolver" onclick="devolverHerramienta('+r.id+')" style="padding:4px 10px;font-size:11px">&#10003;</button></td></tr>';
+    });
+    html+='</tbody></table></div>';
+    el.innerHTML=html;
+    return;
+  }
+
   var porOp={},opOrder=[];
   activos.forEach(function(r){if(!porOp[r.operario]){porOp[r.operario]=[];opOrder.push(r.operario);}porOp[r.operario].push(r);});
   var html='';
