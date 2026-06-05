@@ -1,6 +1,171 @@
 {
   "registros": [
     {
+      "id": 1780639944661,
+      "groupId": "G1780639944661",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "Serrucho",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639944661,
+      "devuelta": null
+    },
+    {
+      "id": 1780639870997,
+      "groupId": "G1780639870997",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "CN Bridas",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639870997,
+      "devuelta": null
+    },
+    {
+      "id": 1780639819227,
+      "groupId": "G1780639819227",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "CN cinta",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639819227,
+      "devuelta": null
+    },
+    {
+      "id": 1780639773577,
+      "groupId": "G1780639773576",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "CN tachas",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639773576,
+      "devuelta": null
+    },
+    {
+      "id": 1780639773576,
+      "groupId": "G1780639773576",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639773576,
+      "devuelta": null
+    },
+    {
+      "id": 1780639692455,
+      "groupId": "G1780639692455",
+      "operario": "MOISÉS",
+      "obra": "OASIS",
+      "herramienta": "Taladron",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639692455,
+      "devuelta": null
+    },
+    {
+      "id": 1780639632480,
+      "groupId": "G1780639632480",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639632480,
+      "devuelta": null
+    },
+    {
+      "id": 1780639622198,
+      "groupId": "G1780639622197",
+      "operario": "ABRAHAM",
+      "obra": "Cofalanz",
+      "herramienta": "CN tachas",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639622197,
+      "devuelta": 1780639718191
+    },
+    {
+      "id": 1780639622197,
+      "groupId": "G1780639622197",
+      "operario": "ABRAHAM",
+      "obra": "Cofalanz",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639622197,
+      "devuelta": null
+    },
+    {
+      "id": 1780639574247,
+      "groupId": "G1780639574247",
+      "operario": "PYTER",
+      "obra": "Cofalanz",
+      "herramienta": "E12",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639574247,
+      "devuelta": null
+    },
+    {
+      "id": 1780639558703,
+      "groupId": "G1780639558703",
+      "operario": "PYTER",
+      "obra": "Sensarena",
+      "herramienta": "E16",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639558703,
+      "devuelta": null
+    },
+    {
+      "id": 1780639212475,
+      "groupId": "G1780639212475",
+      "operario": "YERAY",
+      "obra": "Sensarena",
+      "herramienta": "EALU2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780639212475,
+      "devuelta": null
+    },
+    {
+      "id": 1780638953329,
+      "groupId": "G1780638953329",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "C1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780638953329,
+      "devuelta": null
+    },
+    {
+      "id": 1780638447971,
+      "groupId": "G1780638447971",
+      "operario": "DAVID",
+      "obra": "2 viviendas",
+      "herramienta": "EA pequeña",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780638447971,
+      "devuelta": null
+    },
+    {
+      "id": 1780638360860,
+      "groupId": "G1780638360860",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E13",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1780638360860,
+      "devuelta": null
+    },
+    {
       "id": 1780553761571,
       "groupId": "G1780553761571",
       "operario": "MOISÉS",
@@ -31,7 +196,7 @@
       "cantidad": 2,
       "obs": "Tierra",
       "salida": 1780553648623,
-      "devuelta": null
+      "devuelta": 1780638338777
     },
     {
       "id": 1780553648624,
@@ -42,7 +207,7 @@
       "cantidad": 1,
       "obs": "Tierra",
       "salida": 1780553648623,
-      "devuelta": null
+      "devuelta": 1780639169100
     },
     {
       "id": 1780553648623,
@@ -53,7 +218,7 @@
       "cantidad": 1,
       "obs": "Tierra",
       "salida": 1780553648623,
-      "devuelta": null
+      "devuelta": 1780639165569
     },
     {
       "id": 1780553480181,
@@ -831,7 +996,11 @@
     "Pasamuro",
     "CN caja 10x15",
     "CN CAJA PLADUR 1M",
-    "T Martillo"
+    "T Martillo",
+    "EA pequeña",
+    "2 viviendas",
+    "CN tachas",
+    "Serrucho"
   ],
   "obras": [
     "OASIS",
@@ -841,6 +1010,6 @@
     "Cofalanz",
     "Lanzasur"
   ],
-  "exportado": "2026-06-04T14:34:08.131Z",
+  "exportado": "2026-06-05T06:12:42.494Z",
   "version": 3
 }
