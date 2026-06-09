@@ -447,6 +447,8 @@ function fillToolSelects(){
     plancha:function(h){return h.indexOf('PP')===0;},
     consumibles:function(h){return h.indexOf('CN')===0;}
   };
+  var fuera={};
+  registros.forEach(function(r){if(!r.devuelta) fuera[r.herramienta]=true;});
   var matched={};
   herramientas.forEach(function(h){
     for(var c in cats){if(cats[c](h)){matched[h]=true;break;}}
@@ -459,11 +461,11 @@ function fillToolSelects(){
     sel.innerHTML='<option value="">--</option>';
     if(cat==='varios'){
       herramientas.forEach(function(h){
-        if(!matched[h]) sel.innerHTML+='<option value="'+h+'">'+h+'</option>';
+        if(!matched[h]&&!fuera[h]) sel.innerHTML+='<option value="'+h+'">'+h+'</option>';
       });
     }else if(cats[cat]){
       herramientas.forEach(function(h){
-        if(cats[cat](h)) sel.innerHTML+='<option value="'+h+'">'+h+'</option>';
+        if(cats[cat](h)&&!fuera[h]) sel.innerHTML+='<option value="'+h+'">'+h+'</option>';
       });
     }
     sel.value=cur;
@@ -532,14 +534,14 @@ function devolverHerramienta(id){
   for(var i=0;i<registros.length;i++){
     if(registros[i].id===id){registros[i].devuelta=Date.now();break;}
   }
-  save();renderActivos();
+  save();fillToolSelects();renderActivos();
 }
 
 function devolverGrupo(gid){
   for(var i=0;i<registros.length;i++){
     if(registros[i].groupId===gid&&!registros[i].devuelta) registros[i].devuelta=Date.now();
   }
-  save();renderActivos();
+  save();fillToolSelects();renderActivos();
 }
 
 var activosMode='card';
