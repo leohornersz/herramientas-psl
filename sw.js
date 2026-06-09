@@ -1,4 +1,4 @@
-var CACHE_NAME = 'herramientas-psl-v7';
+var CACHE_NAME = 'herramientas-psl-v8';
 var URLS_TO_CACHE = [
   './',
   './index.html',
