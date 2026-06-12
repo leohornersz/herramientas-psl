@@ -1,6 +1,413 @@
 {
   "registros": [
     {
+      "id": 1781158799474,
+      "groupId": "G1781158799474",
+      "operario": "JUAN FRAN",
+      "obra": "Sensarena",
+      "herramienta": "CN tubo pvc20",
+      "cantidad": 12,
+      "obs": "",
+      "salida": 1781158799474,
+      "devuelta": 1781185990438
+    },
+    {
+      "id": 1781158691618,
+      "groupId": "G1781158691618",
+      "operario": "JUAN FRAN",
+      "obra": "Sensarena",
+      "herramienta": "P10",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158691618,
+      "devuelta": 1781185960083
+    },
+    {
+      "id": 1781158367719,
+      "groupId": "G1781158367719",
+      "operario": "JUAN FRAN",
+      "obra": "Sensarena",
+      "herramienta": "E2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158367719,
+      "devuelta": 1781185980268
+    },
+    {
+      "id": 1781158290996,
+      "groupId": "G1781158290996",
+      "operario": "JUAN FRAN",
+      "obra": "Sensarena",
+      "herramienta": "C10",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158290996,
+      "devuelta": 1781185986702
+    },
+    {
+      "id": 1781158260273,
+      "groupId": "G1781158260272",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "A2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158260272,
+      "devuelta": null
+    },
+    {
+      "id": 1781158260272,
+      "groupId": "G1781158260272",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "PP4",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158260272,
+      "devuelta": null
+    },
+    {
+      "id": 1781158187855,
+      "groupId": "G1781158187855",
+      "operario": "JONATHAN",
+      "obra": "Lanzasur",
+      "herramienta": "CAAC",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158187855,
+      "devuelta": 1781186040912
+    },
+    {
+      "id": 1781158162067,
+      "groupId": "G1781158162066",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "PS1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158162066,
+      "devuelta": null
+    },
+    {
+      "id": 1781158162066,
+      "groupId": "G1781158162066",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "C3",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781158162066,
+      "devuelta": null
+    },
+    {
+      "id": 1781157097268,
+      "groupId": "G1781157097268",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "P8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157097268,
+      "devuelta": 1781185912533
+    },
+    {
+      "id": 1781157086589,
+      "groupId": "G1781157086589",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157086589,
+      "devuelta": 1781185913726
+    },
+    {
+      "id": 1781157071718,
+      "groupId": "G1781157071718",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "E2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157071718,
+      "devuelta": 1781158360993
+    },
+    {
+      "id": 1781157047888,
+      "groupId": "G1781157047887",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "L4",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157047887,
+      "devuelta": 1781185918464
+    },
+    {
+      "id": 1781157047887,
+      "groupId": "G1781157047887",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157047887,
+      "devuelta": 1781186313494
+    },
+    {
+      "id": 1781157035781,
+      "groupId": "G1781157035781",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "C1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157035781,
+      "devuelta": 1781188591135
+    },
+    {
+      "id": 1781157017455,
+      "groupId": "G1781157017455",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "E12",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781157017455,
+      "devuelta": 1781186284304
+    },
+    {
+      "id": 1781156752969,
+      "groupId": "G1781156752969",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E16",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781156752969,
+      "devuelta": 1781186177448
+    },
+    {
+      "id": 1781156736248,
+      "groupId": "G1781156736245",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781156736246,
+      "devuelta": 1781186290886
+    },
+    {
+      "id": 1781156736247,
+      "groupId": "G1781156736245",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E13",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781156736246,
+      "devuelta": 1781186180697
+    },
+    {
+      "id": 1781156736246,
+      "groupId": "G1781156736245",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "C2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781156736246,
+      "devuelta": 1781186237851
+    },
+    {
+      "id": 1781071491620,
+      "groupId": "G1781071491618",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "A1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781071491618,
+      "devuelta": null
+    },
+    {
+      "id": 1781071491619,
+      "groupId": "G1781071491618",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "PP4",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781071491618,
+      "devuelta": 1781099870332
+    },
+    {
+      "id": 1781071491618,
+      "groupId": "G1781071491618",
+      "operario": "ABRAHAM",
+      "obra": "Lanzasur",
+      "herramienta": "C10",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781071491618,
+      "devuelta": 1781158284030
+    },
+    {
+      "id": 1781071016591,
+      "groupId": "G1781071016591",
+      "operario": "ANDRÉS",
+      "obra": "OASIS",
+      "herramienta": "CM6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781071016591,
+      "devuelta": 1781186054022
+    },
+    {
+      "id": 1781070922180,
+      "groupId": "G1781070922180",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "E7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070922180,
+      "devuelta": 1781102463171
+    },
+    {
+      "id": 1781070900486,
+      "groupId": "G1781070900486",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "L4",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070900486,
+      "devuelta": 1781099884998
+    },
+    {
+      "id": 1781070794642,
+      "groupId": "G1781070794641",
+      "operario": "PYTER",
+      "obra": "Druni P Blanca",
+      "herramienta": "N3",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070794641,
+      "devuelta": 1781100020033
+    },
+    {
+      "id": 1781070794641,
+      "groupId": "G1781070794641",
+      "operario": "PYTER",
+      "obra": "Druni P Blanca",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070794641,
+      "devuelta": 1781099886639
+    },
+    {
+      "id": 1781070773424,
+      "groupId": "G1781070773424",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070773424,
+      "devuelta": 1781099935286
+    },
+    {
+      "id": 1781070730010,
+      "groupId": "G1781070730009",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "CN Bridas",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070730009,
+      "devuelta": 1781099938356
+    },
+    {
+      "id": 1781070730009,
+      "groupId": "G1781070730009",
+      "operario": "ROBERTO",
+      "obra": "Druni P Blanca",
+      "herramienta": "P8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070730009,
+      "devuelta": 1781099937276
+    },
+    {
+      "id": 1781070278739,
+      "groupId": "G1781070278739",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "E12",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070278739,
+      "devuelta": 1781099866513
+    },
+    {
+      "id": 1781070262891,
+      "groupId": "G1781070262891",
+      "operario": "ROBERTO",
+      "obra": "Cofalanz",
+      "herramienta": "E13",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070262891,
+      "devuelta": 1781099865524
+    },
+    {
+      "id": 1781070245754,
+      "groupId": "G1781070245754",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E16",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070245754,
+      "devuelta": 1781100035354
+    },
+    {
+      "id": 1781070238352,
+      "groupId": "G1781070238352",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070238352,
+      "devuelta": 1781100040572
+    },
+    {
+      "id": 1781070210473,
+      "groupId": "G1781070210472",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070210472,
+      "devuelta": 1781156495302
+    },
+    {
+      "id": 1781070210472,
+      "groupId": "G1781070210472",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "C2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1781070210472,
+      "devuelta": 1781099858156
+    },
+    {
       "id": 1780985375279,
       "groupId": "G1780985375278",
       "operario": "ABRAHAM",
@@ -20,7 +427,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780985375278,
-      "devuelta": null
+      "devuelta": 1781100050817
     },
     {
       "id": 1780985111042,
@@ -31,7 +438,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780985111042,
-      "devuelta": null
+      "devuelta": 1781070270195
     },
     {
       "id": 1780985058263,
@@ -42,7 +449,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780985058263,
-      "devuelta": null
+      "devuelta": 1781013388492
     },
     {
       "id": 1780985019539,
@@ -53,7 +460,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780985019539,
-      "devuelta": null
+      "devuelta": 1781099978951
     },
     {
       "id": 1780984802331,
@@ -64,7 +471,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984802331,
-      "devuelta": null
+      "devuelta": 1781013468078
     },
     {
       "id": 1780984778657,
@@ -75,7 +482,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984778656,
-      "devuelta": null
+      "devuelta": 1781070197091
     },
     {
       "id": 1780984778656,
@@ -86,7 +493,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984778656,
-      "devuelta": null
+      "devuelta": 1781013732700
     },
     {
       "id": 1780984662723,
@@ -108,7 +515,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984505652,
-      "devuelta": null
+      "devuelta": 1781013471608
     },
     {
       "id": 1780984478188,
@@ -119,7 +526,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984478186,
-      "devuelta": null
+      "devuelta": 1781185937008
     },
     {
       "id": 1780984478187,
@@ -130,7 +537,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984478186,
-      "devuelta": null
+      "devuelta": 1781013227231
     },
     {
       "id": 1780984478186,
@@ -141,7 +548,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984478186,
-      "devuelta": null
+      "devuelta": 1781013370199
     },
     {
       "id": 1780984446688,
@@ -152,7 +559,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984446688,
-      "devuelta": null
+      "devuelta": 1781013527730
     },
     {
       "id": 1780984436489,
@@ -174,7 +581,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984436487,
-      "devuelta": null
+      "devuelta": 1781013262914
     },
     {
       "id": 1780984436487,
@@ -185,7 +592,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984436487,
-      "devuelta": null
+      "devuelta": 1781013269211
     },
     {
       "id": 1780984405959,
@@ -196,7 +603,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984405957,
-      "devuelta": null
+      "devuelta": 1781099961573
     },
     {
       "id": 1780984405958,
@@ -207,7 +614,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984405957,
-      "devuelta": null
+      "devuelta": 1781013239610
     },
     {
       "id": 1780984405955,
@@ -218,7 +625,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780984405955,
-      "devuelta": null
+      "devuelta": 1781013240472
     },
     {
       "id": 1780899482198,
@@ -438,7 +845,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780897849674,
-      "devuelta": null
+      "devuelta": 1781013541720
     },
     {
       "id": 1780897838599,
@@ -471,7 +878,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780897746177,
-      "devuelta": null
+      "devuelta": 1781013290531
     },
     {
       "id": 1780897540746,
@@ -1532,7 +1939,11 @@
     "Cuchillas",
     "CN fichas",
     "CN disco radial",
-    "Martillo"
+    "Martillo",
+    "C10",
+    "P10",
+    "CN tubo pvc20\"",
+    "CN forroplat 40\""
   ],
   "obras": [
     "OASIS",
@@ -1546,6 +1957,6 @@
     "Satocan",
     "Druni P Blanca"
   ],
-  "exportado": "2026-06-09T06:26:40.934Z",
+  "exportado": "2026-06-12T05:42:06.877Z",
   "version": 3
 }
