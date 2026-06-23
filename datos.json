@@ -1,6 +1,94 @@
 {
   "registros": [
     {
+      "id": 1782194624799,
+      "groupId": "G1782194624798",
+      "operario": "ABRAHAM",
+      "obra": "Satocan",
+      "herramienta": "SP",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194624798,
+      "devuelta": null
+    },
+    {
+      "id": 1782194624798,
+      "groupId": "G1782194624798",
+      "operario": "ABRAHAM",
+      "obra": "Satocan",
+      "herramienta": "C10",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194624798,
+      "devuelta": null
+    },
+    {
+      "id": 1782194321460,
+      "groupId": "G1782194321459",
+      "operario": "ANDRÉS",
+      "obra": "Druni P Blanca",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194321459,
+      "devuelta": null
+    },
+    {
+      "id": 1782194321459,
+      "groupId": "G1782194321459",
+      "operario": "ANDRÉS",
+      "obra": "Druni P Blanca",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194321459,
+      "devuelta": null
+    },
+    {
+      "id": 1782194034194,
+      "groupId": "G1782194034191",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194034191,
+      "devuelta": null
+    },
+    {
+      "id": 1782194034193,
+      "groupId": "G1782194034191",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "N2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194034191,
+      "devuelta": null
+    },
+    {
+      "id": 1782194034192,
+      "groupId": "G1782194034191",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E13",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194034191,
+      "devuelta": null
+    },
+    {
+      "id": 1782194034191,
+      "groupId": "G1782194034191",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "C2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782194034191,
+      "devuelta": null
+    },
+    {
       "id": 1781244938235,
       "groupId": "G1781244938235",
       "operario": "ABRAHAM",
@@ -31,7 +119,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1781244866070,
-      "devuelta": null
+      "devuelta": 1782194605692
     },
     {
       "id": 1781244580396,
@@ -240,7 +328,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1781243110745,
-      "devuelta": null
+      "devuelta": 1782194021775
     },
     {
       "id": 1781158799474,
@@ -2199,6 +2287,6 @@
     "Satocan",
     "Druni P Blanca"
   ],
-  "exportado": "2026-06-12T14:04:40.634Z",
+  "exportado": "2026-06-23T07:10:47.686Z",
   "version": 3
 }
