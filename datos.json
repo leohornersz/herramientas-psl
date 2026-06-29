@@ -1,6 +1,215 @@
 {
   "registros": [
     {
+      "id": 1782713422835,
+      "groupId": "G1782713422835",
+      "operario": "GERMAN",
+      "obra": "Sin obra",
+      "herramienta": "E2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782713422835,
+      "devuelta": null
+    },
+    {
+      "id": 1782713415458,
+      "groupId": "G1782713415457",
+      "operario": "GERMAN",
+      "obra": "Sin obra",
+      "herramienta": "E13",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782713415457,
+      "devuelta": null
+    },
+    {
+      "id": 1782713415457,
+      "groupId": "G1782713415457",
+      "operario": "GERMAN",
+      "obra": "Sin obra",
+      "herramienta": "CM6",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782713415457,
+      "devuelta": null
+    },
+    {
+      "id": 1782713129705,
+      "groupId": "G1782713129705",
+      "operario": "ALEXIS",
+      "obra": "Sensarena",
+      "herramienta": "Serrucho",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782713129705,
+      "devuelta": null
+    },
+    {
+      "id": 1782713024429,
+      "groupId": "G1782713024429",
+      "operario": "ABRAHAM",
+      "obra": "Sin obra",
+      "herramienta": "C10",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782713024429,
+      "devuelta": null
+    },
+    {
+      "id": 1782712207171,
+      "groupId": "G1782712207169",
+      "operario": "PYTER",
+      "obra": "Druni P Blanca",
+      "herramienta": "L1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782712207169,
+      "devuelta": null
+    },
+    {
+      "id": 1782712207170,
+      "groupId": "G1782712207169",
+      "operario": "PYTER",
+      "obra": "Druni P Blanca",
+      "herramienta": "PC5",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782712207169,
+      "devuelta": null
+    },
+    {
+      "id": 1782712207169,
+      "groupId": "G1782712207169",
+      "operario": "PYTER",
+      "obra": "Druni P Blanca",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782712207169,
+      "devuelta": null
+    },
+    {
+      "id": 1782453903644,
+      "groupId": "G1782453903644",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782453903644,
+      "devuelta": 1782482649491
+    },
+    {
+      "id": 1782453281738,
+      "groupId": "G1782453281738",
+      "operario": "ANDRÉS",
+      "obra": "Druni P Blanca",
+      "herramienta": "E3",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782453281738,
+      "devuelta": null
+    },
+    {
+      "id": 1782453184344,
+      "groupId": "G1782453184344",
+      "operario": "ANDRÉS",
+      "obra": "OASIS",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782453184344,
+      "devuelta": 1782482678747
+    },
+    {
+      "id": 1782453143169,
+      "groupId": "G1782453143167",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782453143167,
+      "devuelta": 1782711951786
+    },
+    {
+      "id": 1782453143168,
+      "groupId": "G1782453143167",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "E12",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782453143167,
+      "devuelta": 1782711951787
+    },
+    {
+      "id": 1782453143167,
+      "groupId": "G1782453143167",
+      "operario": "GERMAN",
+      "obra": "OASIS",
+      "herramienta": "C2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782453143167,
+      "devuelta": 1782711951787
+    },
+    {
+      "id": 1782281280213,
+      "groupId": "G1782281280213",
+      "operario": "HEYSEN",
+      "obra": "Druni P Blanca",
+      "herramienta": "A3",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782281280213,
+      "devuelta": null
+    },
+    {
+      "id": 1782280256225,
+      "groupId": "G1782280256224",
+      "operario": "GERMAN",
+      "obra": "Satocan",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782280256224,
+      "devuelta": 1782309199223
+    },
+    {
+      "id": 1782280256224,
+      "groupId": "G1782280256224",
+      "operario": "GERMAN",
+      "obra": "Satocan",
+      "herramienta": "C2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782280256224,
+      "devuelta": 1782309197620
+    },
+    {
+      "id": 1782280169809,
+      "groupId": "G1782280169807",
+      "operario": "ANDRÉS",
+      "obra": "Druni P Blanca",
+      "herramienta": "PC8",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782280169808,
+      "devuelta": 1782482680968
+    },
+    {
+      "id": 1782280169808,
+      "groupId": "G1782280169807",
+      "operario": "ANDRÉS",
+      "obra": "Druni P Blanca",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1782280169808,
+      "devuelta": 1782309666875
+    },
+    {
       "id": 1782194624799,
       "groupId": "G1782194624798",
       "operario": "ABRAHAM",
@@ -9,7 +218,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194624798,
-      "devuelta": null
+      "devuelta": 1782223182602
     },
     {
       "id": 1782194624798,
@@ -20,7 +229,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194624798,
-      "devuelta": null
+      "devuelta": 1782223182602
     },
     {
       "id": 1782194321460,
@@ -31,7 +240,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194321459,
-      "devuelta": null
+      "devuelta": 1782223161760
     },
     {
       "id": 1782194321459,
@@ -42,7 +251,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194321459,
-      "devuelta": null
+      "devuelta": 1782223161760
     },
     {
       "id": 1782194034194,
@@ -53,7 +262,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194034191,
-      "devuelta": null
+      "devuelta": 1782223151702
     },
     {
       "id": 1782194034193,
@@ -64,7 +273,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194034191,
-      "devuelta": null
+      "devuelta": 1782223152301
     },
     {
       "id": 1782194034192,
@@ -75,7 +284,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194034191,
-      "devuelta": null
+      "devuelta": 1782223054072
     },
     {
       "id": 1782194034191,
@@ -86,7 +295,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1782194034191,
-      "devuelta": null
+      "devuelta": 1782223154452
     },
     {
       "id": 1781244938235,
@@ -130,7 +339,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1781244580396,
-      "devuelta": null
+      "devuelta": 1782223165308
     },
     {
       "id": 1781244402556,
@@ -229,7 +438,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1781243806730,
-      "devuelta": null
+      "devuelta": 1782713363123
     },
     {
       "id": 1781243703680,
@@ -988,7 +1197,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1780899225934,
-      "devuelta": null
+      "devuelta": 1782713089119
     },
     {
       "id": 1780899125650,
@@ -2287,6 +2496,6 @@
     "Satocan",
     "Druni P Blanca"
   ],
-  "exportado": "2026-06-23T07:10:47.686Z",
+  "exportado": "2026-06-29T06:13:25.572Z",
   "version": 3
 }
