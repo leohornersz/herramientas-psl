@@ -1,6 +1,138 @@
 {
   "registros": [
     {
+      "id": 1784095774527,
+      "groupId": "G1784095774527",
+      "operario": "ROBERTO",
+      "obra": "Sin obra",
+      "herramienta": "PC5",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095774527,
+      "devuelta": null
+    },
+    {
+      "id": 1784095620299,
+      "groupId": "G1784095620299",
+      "operario": "DAVID",
+      "obra": "Sin obra",
+      "herramienta": "E9",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095620299,
+      "devuelta": null
+    },
+    {
+      "id": 1784095541394,
+      "groupId": "G1784095541394",
+      "operario": "GABRIEL",
+      "obra": "Sin obra",
+      "herramienta": "CM2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095541394,
+      "devuelta": null
+    },
+    {
+      "id": 1784095516711,
+      "groupId": "G1784095516710",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "E16",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095516710,
+      "devuelta": null
+    },
+    {
+      "id": 1784095516710,
+      "groupId": "G1784095516710",
+      "operario": "HEYSEN",
+      "obra": "Los Lirios",
+      "herramienta": "C3",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095516710,
+      "devuelta": null
+    },
+    {
+      "id": 1784095006590,
+      "groupId": "G1784095006589",
+      "operario": "GERMAN",
+      "obra": "Sin obra",
+      "herramienta": "JC1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095006589,
+      "devuelta": null
+    },
+    {
+      "id": 1784095006589,
+      "groupId": "G1784095006589",
+      "operario": "GERMAN",
+      "obra": "Sin obra",
+      "herramienta": "C2",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784095006589,
+      "devuelta": null
+    },
+    {
+      "id": 1784094494179,
+      "groupId": "G1784094494178",
+      "operario": "PYTER",
+      "obra": "Cucumber",
+      "herramienta": "E12",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784094494179,
+      "devuelta": null
+    },
+    {
+      "id": 1784094128361,
+      "groupId": "G1784094128360",
+      "operario": "PYTER",
+      "obra": "Cucumber",
+      "herramienta": "L1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784094128360,
+      "devuelta": null
+    },
+    {
+      "id": 1784094128360,
+      "groupId": "G1784094128360",
+      "operario": "PYTER",
+      "obra": "Cucumber",
+      "herramienta": "CM7",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784094128360,
+      "devuelta": null
+    },
+    {
+      "id": 1784010208634,
+      "groupId": "G1784010208633",
+      "operario": "FERNANDO",
+      "obra": "Sin obra",
+      "herramienta": "A1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784010208633,
+      "devuelta": null
+    },
+    {
+      "id": 1784010208633,
+      "groupId": "G1784010208633",
+      "operario": "FERNANDO",
+      "obra": "Sin obra",
+      "herramienta": "PP1",
+      "cantidad": 1,
+      "obs": "",
+      "salida": 1784010208633,
+      "devuelta": null
+    },
+    {
       "id": 1783490367802,
       "groupId": "G1783490367802",
       "operario": "GERMAN",
@@ -20,7 +152,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783490032074,
-      "devuelta": null
+      "devuelta": 1784095531545
     },
     {
       "id": 1783489811934,
@@ -42,7 +174,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783489778538,
-      "devuelta": null
+      "devuelta": 1784095615847
     },
     {
       "id": 1783489778538,
@@ -53,7 +185,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783489778538,
-      "devuelta": null
+      "devuelta": 1784095764659
     },
     {
       "id": 1783489499909,
@@ -64,7 +196,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783489499907,
-      "devuelta": null
+      "devuelta": 1784094987443
     },
     {
       "id": 1783489499908,
@@ -86,7 +218,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783489499907,
-      "devuelta": null
+      "devuelta": 1784094998344
     },
     {
       "id": 1783404230145,
@@ -295,7 +427,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783057700511,
-      "devuelta": null
+      "devuelta": 1784095219291
     },
     {
       "id": 1783057700511,
@@ -317,7 +449,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1783000986121,
-      "devuelta": null
+      "devuelta": 1784094107201
     },
     {
       "id": 1782972045964,
@@ -1318,7 +1450,7 @@
       "cantidad": 1,
       "obs": "",
       "salida": 1781158162066,
-      "devuelta": null
+      "devuelta": 1784095319345
     },
     {
       "id": 1781157097268,
@@ -3183,6 +3315,6 @@
     "Campa Alex",
     "Cucumber"
   ],
-  "exportado": "2026-07-08T09:37:28.911Z",
+  "exportado": "2026-07-15T12:21:05.362Z",
   "version": 3
 }
